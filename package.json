@@ -21,7 +21,7 @@
   "homepage": "https://github.com/reddit/node-private#readme",
   "peerDependencies": {
     "superagent": "1.x",
-    "@r/api-client": "https://github.com/goldspin/node-api-client.git"
+    "@r/api-client": "1.x"
   },
   "devDependencies": {
     "@r/build": "^0.10.1",
